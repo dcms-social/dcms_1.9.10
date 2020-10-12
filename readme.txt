@@ -1,1 +1,1 @@
-# Dcms-Socia 1.9.10
+# Dcms-Social 1.9.10
